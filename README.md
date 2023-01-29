@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pramnora...Paul Ramnora
+- 👋 Hi, I’m @pramnora/Paul Ramnora
 - 👀 I’m interested in ...Python 3
 - 🌱 I’m currently learning ...SVG
 - 💞️ I’m looking to collaborate on ... not too sure?
